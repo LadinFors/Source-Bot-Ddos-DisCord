@@ -13,7 +13,7 @@
 
 # Chức Năng
 - L7/L4
--``Đây Là Đồ Miễn Phí Nên Ae Đừng Đòi Hỏi Gì Nhé!!``
+- ``Đây Là Đồ Miễn Phí Nên Ae Đừng Đòi Hỏi Gì Nhé!!``
 
 # Khác
 - **Name**: *HuyKaiser*
